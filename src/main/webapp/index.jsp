@@ -7,6 +7,6 @@
 <title>Welcome home page</title>
 </head>
 <body>
-	<h1>Welcome to Home Page</h1>
+	<h1>Welcome to Home Page HUNG</h1>
 </body>
 </html>
