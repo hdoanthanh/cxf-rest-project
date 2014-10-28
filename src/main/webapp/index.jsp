@@ -7,8 +7,12 @@
 <title>Welcome home page</title>
 </head>
 <body>
+<<<<<<< HEAD
 
 	<h1>Welcome to Home Page MASTER</h1>
 
+=======
+	<h1>Welcome to Home Page HUNG</h1>
+>>>>>>> 06e7751ab8821883355f5f07cdd1a3bdd85152ac
 </body>
 </html>
