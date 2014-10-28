@@ -7,6 +7,12 @@
 <title>Welcome home page</title>
 </head>
 <body>
-	<h1>Welcome to Home Page HOANG</h1>
+
+
+	<h1>Welcome to Home Page MASTER</h1>
+
+
+
+
 </body>
 </html>
