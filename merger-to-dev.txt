@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 message 
 master modify
+=======
+message
+modify in localdev
+>>>>>>> dev
